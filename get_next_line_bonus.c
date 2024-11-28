@@ -6,11 +6,11 @@
 /*   By: nmetais <nmetais@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/28 16:24:06 by nmetais           #+#    #+#             */
-/*   Updated: 2024/11/28 20:45:49 by nmetais          ###   ########.fr       */
+/*   Updated: 2024/11/28 20:53:23 by nmetais          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line.bonus.h"
 
 char	*read_a_line(int fd, char *buffer)
 {
